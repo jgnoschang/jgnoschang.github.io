@@ -62282,7 +62282,7 @@ return new A.b4(1/0,null,new A.iW(this.ww(b,b.J(t.w).f.a.a*0.8),r,s,null),null)}
 ww(a,b){var s=null,r=t.p,q=A.ee(A.a([A.cG("Productive,\n   Experienced",A.dz(s,18,B.ab,1.8,2),s,s),A.jL(s,A.k1(A.cG("DOWNLOAD CV",A.dz(B.aG,16,B.ab,s,s),s,s),B.aK,s,s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,new A.a3q(),s,s,s,s,s,s)],r),B.F,B.fE,B.A),p=A.cG("What I Do?",A.dz(s,35,B.ab,1.3,s),s,s),o=A.cG("Always trying my best to learn and evolve.",A.dz(B.bS,14,s,s,s),s,s),n=a.J(t.w).f.a.a>=1200?140:70
 return A.qZ(B.aO,s,s,s,s,A.im(A.a([q,B.ci,p,B.uq,o,new A.b4(s,n,s,s),A.ve(new A.a3r(this)),B.K9,A.bi(B.J,new A.iC(new A.a3s(a),s),s,s,s,s,s,s,s,s)],r),B.F,B.X,B.A),!1,s,s,!1,1,s,s,s,b,s,s,b,s,!0,!1)}}
 A.a3q.prototype={
-$0(){A.fA("https://github.com/jgnoschang/curriculum-vitae/blob/main/Gabriel%20Noschang%20CV.pdf")},
+$0(){A.fA("https://github.com/jgnoschang/curriculum-vitae/raw/main/CV_JoaoGabriel.pdf")},
 $S:0}
 A.a3r.prototype={
 $3(a,b,c){var s=this.a.c,r=A.a7(s).i("a4<1,co>")
@@ -68949,7 +68949,7 @@ B.Oz=new A.zq(1,"longestLine")
 B.NO=new A.t(!0,null,null,null,null,null,14,B.P,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.OB=new A.j0("Technology I have worked with",null,B.NO,null,null,null)
 B.OD=new A.j0("",null,null,null,null,null)
-B.OF=new A.j0("5 years of experience in programming with knowledge of C#, Dart and Python. I am graduating in technology of digital games from the Federal Institute of Mato Grosso do Sul. I have been developing games for more than 4 years on the Unity platform, and I have already worked as a team and individually, launching games, working in the areas of VR development, multiplayer and Google Cloud Speech to text, I have always loved to learn and discover new ways to do a better job and improve myself. I also know SQL, GitHub, and AWS, and have used them for many projects.",null,B.uL,null,null,null)
+B.OF=new A.j0("5 years of experience in programming with knowledge of C#, Dart and Python. I am graduating in technology of digital games from the Federal Institute of Mato Grosso do Sul. I have been developing games for more than 4 years on the Unity platform, and I already worked as a team and individually, launching games, working in the areas of VR development, multiplayer and Google Cloud Speech to text, I always loved to learn and discover new ways to do a better job and improve myself. I also know SQL, GitHub, and AWS, and have used them for many projects.",null,B.uL,null,null,null)
 B.OG=new A.rZ(0,"system")
 B.uM=new A.rZ(1,"light")
 B.ah=new A.rZ(2,"dark")
