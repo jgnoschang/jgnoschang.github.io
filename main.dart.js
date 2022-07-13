@@ -19097,7 +19097,7 @@ n=new A.bJ(8,8)
 n=A.ee(A.a([new A.fW(k,k,k,B.aK,A.bi(k,A.alM(A.cG("Contact me",new A.t(!0,B.bS,k,k,k,k,13,B.P,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),new A.adk()),k,k,new A.dv(B.aG,k,k,new A.cK(n,n,n,n),k,k,B.ap),48,k,k,B.m4,k),k)],s),B.F,B.X,B.A)
 m=$.aoN()
 l=A.a7(m).i("a4<1,nq>")
-j[r]=new A.Dv(new A.b4(k,a,new A.z7(B.bl,B.bf,A.a([new A.uX(B.J,k,k,A.im(A.a([q,B.K5,p,B.ch,o,B.K6,n,new A.fW(k,k,k,B.aK,new A.b4(k,100,A.ee(A.S(new A.a4(m,new A.adl(),l),!0,l.i("aH.E")),B.lQ,B.GZ,B.A),k),k)],s),B.br,B.aI,B.rt),k)],s),k),k),A.alJ("assets/svg/guy.svg","Guy Logo",k))}return j},
+j[r]=new A.Dv(new A.b4(k,a,new A.z7(B.bl,B.bf,A.a([new A.uX(B.J,k,k,A.im(A.a([q,B.K5,p,B.ch,o,B.K6,n,new A.fW(k,k,k,B.aK,new A.b4(k,90,A.ee(A.S(new A.a4(m,new A.adl(),l),!0,l.i("aH.E")),B.lQ,B.GZ,B.A),k),k)],s),B.br,B.aI,B.rt),k)],s),k),k),A.alJ("assets/svg/guy.svg","Guy Logo",k))}return j},
 adk:function adk(){},
 adl:function adl(){},
 ah4(a,b){var s=null
